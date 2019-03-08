@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [MADE App Components](README.md)
+* [Changelog](changelog.md)
