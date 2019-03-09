@@ -40,3 +40,17 @@
 * [NetworkRequestCallback](MADE.App.Networking/networkrequestcallback.md)
 * [NetworkRequestManager](MADE.App.Networking/networkrequestmanager.md)
 * [StreamGetNetworkRequest](MADE.App.Networking/streamgetnetworkrequest.md)
+
+## MADE.App.Views
+* [Control](MADE.App.Views/control.md)
+* [IControl](MADE.App.Views/icontrol.md)
+* [IUIDispatcher](MADE.App.Views/iuidispatcher.md)
+* [IView](MADE.App.Views/iview.md)
+* [NSLayoutConstraintExtensions](MADE.App.Views/nslayoutconstraintextensions.md)
+* [Orientation](MADE.App.Views/orientation.md)
+* [OrientationExtensions](MADE.App.Views/orientationextensions.md)
+* [Thickness](MADE.App.Views/thickness.md)
+* [UIDispatcher](MADE.App.Views/uidispatcher.md)
+* [ViewExtensions](MADE.App.Views/viewextensions.md)
+* [ViewLoadedEventArgs](MADE.App.Views/viewloadedeventargs.md)
+* [ViewLoadedEventHandler](MADE.App.Views/viewloadedeventhandler.md)
