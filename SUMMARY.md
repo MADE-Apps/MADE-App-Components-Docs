@@ -23,3 +23,8 @@
 * [IEventLogger](MADE.App.Diagnostics/ieventlogger.md)
 * [IStorageFileEventListener](MADE.App.Diagnostics/istoragefileeventlistener.md)
 * [StorageFileEventListener](MADE.App.Diagnostics/storagefileeventlistener.md)
+
+## MADE.App.Mvvm
+* [Bindable](MADE.App.Mvvm/bindable.md)
+* [RelayCommand](MADE.App.Mvvm/relaycommand.md)
+* [RelayCommand<T>](MADE.App.Mvvm/relaycommand`1.md)
