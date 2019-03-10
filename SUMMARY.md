@@ -65,3 +65,14 @@
 * [DialogButtonInvokedHandler](MADE.App.Views.Dialogs/dialogbuttoninvokedhandler.md)
 * [DialogButtonType](MADE.App.Views.Dialogs/dialogbuttontype.md)
 * [IAppDialog](MADE.App.Views.Dialogs/iappdialog.md)
+
+## MADE.App.Views.Navigation
+* [INavigationFrame](MADE.App.Views.Navigation/inavigationframe.md)
+* [INavigationService](MADE.App.Views.Navigation/inavigationservice.md)
+* [IPage](MADE.App.Views.Navigation/ipage.md)
+* [NavigatingCancelEventArgs](MADE.App.Views.Navigation/navigatingcanceleventargs.md)
+* [NavigationEventArgs](MADE.App.Views.Navigation/navigationeventargs.md)
+* [NavigationExtensions](MADE.App.Views.Navigation/navigationextensions.md)
+* [NavigationFrame](MADE.App.Views.Navigation/navigationframe.md)
+* [NavigationMode](MADE.App.Views.Navigation/navigationmode.md)
+* [Page](MADE.App.Views.Navigation/page.md)
