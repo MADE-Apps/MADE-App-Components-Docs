@@ -20,4 +20,4 @@ public class HeaderedTextBlock : ContentView, IHeaderedTextBlock
 | --- | --- |
 | Xamarin.Android | 8.1 |
 | UWP | 10.0.16299 | 
-| Xamarin.Forms | 3.6 |
+| Xamarin.Forms | 3.4 |

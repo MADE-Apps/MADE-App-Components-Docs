@@ -80,3 +80,7 @@
 ## MADE.App.Views.Navigation.MvvmLight
 * [MvvmPage](MADE.App.Views.Navigation.MvvmLight/mvvmpage.md)
 * [PageViewModel](MADE.App.Views.Navigation.MvvmLight/pageviewmodel.md)
+
+## MADE.App.Views.Xamarin.Forms
+* [OrientationExtensions](MADE.App.Views.Xamarin.Forms/orientationextensions.md)
+* [ViewExtensions](MADE.App.Views.Xamarin.Forms/viewextensions.md)
