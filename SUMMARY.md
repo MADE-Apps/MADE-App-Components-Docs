@@ -76,3 +76,7 @@
 * [NavigationFrame](MADE.App.Views.Navigation/navigationframe.md)
 * [NavigationMode](MADE.App.Views.Navigation/navigationmode.md)
 * [Page](MADE.App.Views.Navigation/page.md)
+
+## MADE.App.Views.Navigation.MvvmLight
+* [MvvmPage](MADE.App.Views.Navigation.MvvmLight/mvvmpage.md)
+* [PageViewModel](MADE.App.Views.Navigation.MvvmLight/pageviewmodel.md)
