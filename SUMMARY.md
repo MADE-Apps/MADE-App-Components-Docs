@@ -54,3 +54,7 @@
 * [ViewExtensions](MADE.App.Views/viewextensions.md)
 * [ViewLoadedEventArgs](MADE.App.Views/viewloadedeventargs.md)
 * [ViewLoadedEventHandler](MADE.App.Views/viewloadedeventhandler.md)
+
+## MADE.App.Views.Controls.HeaderedTextBlock
+* [HeaderedTextBlock](MADE.App.Views.Controls.HeaderedTextBlock/headeredtextblock.md)
+* [IHeaderedTextBlock](MADE.App.Views.Controls.HeaderedTextBlock/iheaderedtextblock.md)
