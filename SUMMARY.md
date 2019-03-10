@@ -58,3 +58,10 @@
 ## MADE.App.Views.Controls.HeaderedTextBlock
 * [HeaderedTextBlock](MADE.App.Views.Controls.HeaderedTextBlock/headeredtextblock.md)
 * [IHeaderedTextBlock](MADE.App.Views.Controls.HeaderedTextBlock/iheaderedtextblock.md)
+
+## MADE.App.Views.Dialogs
+* [AppDialog](MADE.App.Views.Dialogs/appdialog.md)
+* [DialogButton](MADE.App.Views.Dialogs/dialogbutton.md)
+* [DialogButtonInvokedHandler](MADE.App.Views.Dialogs/dialogbuttoninvokedhandler.md)
+* [DialogButtonType](MADE.App.Views.Dialogs/dialogbuttontype.md)
+* [IAppDialog](MADE.App.Views.Dialogs/iappdialog.md)
