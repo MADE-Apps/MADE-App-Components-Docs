@@ -24,6 +24,16 @@ Associates the given value with the given NSObject by the given key.
 public static void SetAssociatedObject(this NSObject nsObject, NSString key, NSObject value);
 ```
 
+#### Example
+
+This example shows how you might associated a value, such as adding a tag to a view.
+
+```csharp
+NSNumber myProperty = new NSNumber(1);
+
+view.SetAssociatedObject("MyCustomProperty", myProperty);
+```
+
 #### Parameters
 ##### nsObject (NSObject)
 The object to associated the value with.
@@ -40,6 +50,19 @@ Gets the associated value from the given NSObject by the given key.
 
 ```csharp
 public static object GetAssociatedObject(this NSObject nsObject, NSString key);
+```
+
+#### Example
+
+This example shows how you might retrieve an associated value, such as a custom tag on a view.
+
+```csharp
+NSNumber myProperty = new NSNumber(1);
+object associatedObject = view.GetAssociatedObject("MyCustomProperty");
+if (associatedObject != null)
+{
+    myProperty = (NSNumber)associatedObject;
+}
 ```
 
 #### Parameters
