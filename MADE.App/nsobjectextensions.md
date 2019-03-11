@@ -13,3 +13,41 @@ public static class NSObjectExtensions
 | Platform | Version |
 | --- | --- |
 | Xamarin.iOS  | 1.0 |
+
+## Static Methods
+
+### SetAssociatedObject(this NSObject, NSString, NSObject)
+
+Associates the given value with the given NSObject by the given key.
+
+```csharp
+public static void SetAssociatedObject(this NSObject nsObject, NSString key, NSObject value);
+```
+
+#### Parameters
+##### nsObject (NSObject)
+The object to associated the value with.
+
+##### key (NSString)
+The key for the associated value.
+
+##### value (NSObject)
+The value to associate.
+
+### GetAssociatedObject(this NSObject, NSString)
+
+Gets the associated value from the given NSObject by the given key.
+
+```csharp
+public static object GetAssociatedObject(this NSObject nsObject, NSString key);
+```
+
+#### Parameters
+##### nsObject (NSObject)
+The object to retrieve the associated value from.
+
+##### key (NSString)
+The key to retrieve a value for.
+
+#### Returns
+The associated value.

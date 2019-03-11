@@ -31,7 +31,7 @@ service.Register<IMyService, MyService>(); // Registers the service
 IMyService myService = service.GetInstance<IMyService>(); // Retrieves the registered instance
 ```
 
-## Properties
+## Static Properties
 
 ### Instance
 
